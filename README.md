@@ -19,4 +19,4 @@ We learned that there are many more things to learn. This is just the beginning,
 <b>What's next for Dojo Web App</b><br/>
 There is a lot in store. Our existing functionalities are in the early preliminary stages, and we hope to flesh out the app more in the near future to create the user experience that we envisioned. We are also looking to incorporate additional exciting social features such as adding friends and messaging so that we can foster a greater community of students and masters. The idea has infinite potential, and as we learn and grow in our capabilities, the possibilities of this project can only increase.
 
-<b>Built With</b><br/> HTML,CSS,JavaScript
+<b>Built With</b><br/> HTML, CSS, JavaScript
