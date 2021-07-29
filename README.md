@@ -1,22 +1,28 @@
-<b>Inspiration</b><br/>
-The general consensus is that mastery over one skill is better than knowing many skills. We are all masters at some skills, and apprentices at others. We were inspired by the possibility of trading skills and supporting one another on different learning journeys. Moreover, there is a constant demand for teachers in all aspects of life, from education and life skills to music and art. Yet many people are discouraged from learning new skills due to barriers such as availability and affordability. Why is it that there are so many teachers with no students, yet so many students with no teachers?
+# Project *PEER_PROOF* by TimeTraveling Serpents 
+## Goal: Create a platform for high school students to post their solutions to math textbook questions or challenging math problems and have other students provide feedback and comment on them
 
-<b>What it does</b><br/>
-At Dojo, we connect people looking to trade skills and develop friendships. Emily may be a master at coding, but an apprentice at guitar. Anthony may be a master at guitar, but an apprentice at coding. Dojo seeks to connect Emily and Anthony to grow together. Using technology from Vonage, people can instantly video call and learn from each other. People can also connect in The Open Dojo, specialized communities focusing on a particular skill where apprentices can share progress to masters.
+Our project is a website that allows high school students to improve their mathematical communication skills. Students can post their detailed solutions to math textbook questions or problem solving questions, and other students can provide helpful feedback or ask questions about their solutions. Specific sections can be highlighted for reference when adding a comment, and a point system encourages students to provide constructive, critical feedback to each other's solutions. A rating system also allows students see how well-communicated other students find their solutions. Quizzes, articles and other resources are linked on the website for additional learning opportunities to balance practicing technical skills alongside communication skills.
 
-<b>How we built it</b><br/>
-The web app was put together using React, and the video calling aspect was incorporated by taking advantage of the Vonage API.
+### The Motivation Behind This Project
 
-<b>Challenges we ran into</b><br/>
-Lack of experience and conceptual knowledge were great hindrances in the development process. React was new to most of our team members, and it was difficult to learn on the fly. In addition, the video calling feature was incredibly difficult to implement. For whatever reason, we could not get more than one person on the call at a time. However, after hours of tinkering combined with the help of a mentor, we were able to get it done.
+It is easy for students to become so focused on finding the right answer to a math problem that they completely neglect the presentation of solution. Oftentimes, an elegantly communicated solution is just as, if not more, important than the final answer. To encourage the clear communication of students' problem solving process, *PEER PROOF*'s learning platform puts emphasizes on the clarity, concision, and elegance of written solutions; it does this through a student-teach-student learning model. Recieving and providing good criticism teaches students on both sides the ways that they can improve how they write their solutions to problems. The benefit of a student-based learning system is that students can point out each other's mistakes while reflecting on how those same mistakes appear in their own work. Sometimes seeing where other students get confused in your solution allows you to better understand where you may have made a mistake. (_If we have time_: To encourage healthy discussion and respectful criticism, comments containing good feedback can be given a _thumbs up_ and will appear at the top of discussions.) *PEER PROOF* facilitates group discussion between students, providing a platform for students to make mistakes and learn from them together.
 
-<b>Accomplishments that we’re proud of</b><br/>
-For most of the team, this was our first hackathon, and we are proud that we were able to produce a semi-functional version of what we had set out to create. The interface is as we had prototyped, and overall although it is not the most complex project, we are proud of ourselves for sticking it through.
+### How to Use PEER PROOF
+You can create an account through your gmail. Posted problems and their corresponding student solutions are organized by mathematical topic and subtopics. You can post a problem and your solution in the appropriate category or post your solution to an already posted problem. You're solutions don't have to be complete. Sometimes, showing what you've got so far and getting feedback on it can help guide you to the right path! 
+Add comments to the posted solutions and highlight the sections that you are referring to. *PEER PROOF* keeps track of everytime you provide feedback, and you can __level up__ your "proofreading prowess" by giving enough good critics. Thumbs up other comments that you find constructive and they'll show up closer to the top.
+Quizzes, articles and other resources are located on the homepage. Click the links to be brought to those sites. (*If we get there*: Students learn best when they are given ample time in between study session to relax and subconsciously process the information. Our built-in **Pomodoro Timer** will keep track of how long you're studying for and remind you when it's time to take a break. It'll be a welcomed companion alongside your mathematical exploration of our website).
 
-<b>What We learned</b><br/>
-We learned that there are many more things to learn. This is just the beginning, and as every master was once a beginner, this experience has inspired us to set out on the journey to mastery. We also learned a lot about the development process as a whole, from initial idea to deployment, and of course about front-end development and accessing APIs.
+### Challenges We Encountered
+Don't worry, they're coming ... >:)
 
-<b>What's next for Dojo Web App</b><br/>
-There is a lot in store. Our existing functionalities are in the early preliminary stages, and we hope to flesh out the app more in the near future to create the user experience that we envisioned. We are also looking to incorporate additional exciting social features such as adding friends and messaging so that we can foster a greater community of students and masters. The idea has infinite potential, and as we learn and grow in our capabilities, the possibilities of this project can only increase.
+### Our Proud Accomplishments
+I'm sure they're coming too... ('3')
 
-<b>Built With</b><br/> HTML, CSS, JavaScript
+### What We've Learned
+The power of friendship conquers all.
+
+### Future Project Extensions
+Currently, this platform has focused its scope on mathematics; however, the same system can encourage strong communication skills in other subjects as well. More advanced features could include providing an easy way for users to add mathematical symbols and notations when typing out their solutions and adding pictures or screenshots of their work that can also be highlighted.
+
+### Built with
+Love
