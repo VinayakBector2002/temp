@@ -1,1 +1,3 @@
-*temporary?*
+*italics*
+**bold**
+***bni***
